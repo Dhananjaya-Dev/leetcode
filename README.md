@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0131-palindrome-partitioning) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Dhananjaya-Dev/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Bit Manipulation
 |  |
@@ -65,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+## String
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0131-palindrome-partitioning) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
