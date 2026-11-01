@@ -1,7 +1,6 @@
 class Solution {
     public String maxSumOfSquares(int num, int sum) {
-        // A valid positive integer of length 'num' must have:
-        // 1 <= sum <= 9 * num
+        // A num-digit positive integer has digit sum between 1 and 9 * num
         if (sum < 1 || (long) num * 9 < sum) {
             return "";
         }
@@ -10,20 +9,20 @@ class Solution {
 
         int count9 = sum / 9;
         int rem = sum % 9;
-        int count0 = num - count9 - (rem > 0 ? 1 : 0);
 
-        // Append all 9's
+        // Place as many 9s as possible on the left
         for (int i = 0; i < count9; i++) {
             sb.append('9');
         }
 
-        // Append the remainder digit if non-zero
+        // Place the single remainder digit if it exists
         if (rem > 0) {
-            sb.append(rem);
+            sb.append((char) ('0' + rem));
         }
 
-        // Append the remaining 0's
-        for (int i = 0; i < count0; i++) {
+        // Fill the remaining digit positions with '0'
+        int zeros = num - sb.length();
+        for (int i = 0; i < zeros; i++) {
             sb.append('0');
         }
 
