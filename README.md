@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/Dhananjaya-Dev/leetcode/tree/master/1254-number-of-closed-islands) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0002-add-two-numbers) |
 | [0149-max-points-on-a-line](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Dhananjaya-Dev/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dhananjaya-Dev/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
