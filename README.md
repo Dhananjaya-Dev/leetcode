@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0174-dungeon-game) |
+| [0179-largest-number](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0179-largest-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/Dhananjaya-Dev/leetcode/tree/master/1254-number-of-closed-islands) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0179-largest-number](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0179-largest-number) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dhananjaya-Dev/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Dhananjaya-Dev/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0135-candy) |
+| [0179-largest-number](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0179-largest-number) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dhananjaya-Dev/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Dhananjaya-Dev/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0179-largest-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dhananjaya-Dev/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Trie
