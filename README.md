@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Dhananjaya-Dev/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dhananjaya-Dev/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Dhananjaya-Dev/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
