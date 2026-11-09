@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0190-reverse-bits](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0190-reverse-bits) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Dhananjaya-Dev/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Dhananjaya-Dev/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Linked List
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0190-reverse-bits) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Dhananjaya-Dev/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Indexed Tree
 |  |
