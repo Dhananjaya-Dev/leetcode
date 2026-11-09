@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Dhananjaya-Dev/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Dhananjaya-Dev/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Linked List
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [2747-count-zero-request-servers](https://github.com/Dhananjaya-Dev/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Dhananjaya-Dev/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Tree
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dhananjaya-Dev/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Dhananjaya-Dev/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [2747-count-zero-request-servers](https://github.com/Dhananjaya-Dev/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Dhananjaya-Dev/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Binary Search
@@ -369,4 +373,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Dhananjaya-Dev/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
