@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/Dhananjaya-Dev/leetcode/tree/master/1254-number-of-closed-islands) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Dhananjaya-Dev/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0189-rotate-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dhananjaya-Dev/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Floyd's Cycle Finding Algorithm
 |  |
