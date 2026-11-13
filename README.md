@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0200-number-of-islands) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/Dhananjaya-Dev/leetcode/tree/master/1254-number-of-closed-islands) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/Dhananjaya-Dev/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Dhananjaya-Dev/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Dhananjaya-Dev/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/Dhananjaya-Dev/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Dhananjaya-Dev/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Dhananjaya-Dev/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/Dhananjaya-Dev/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Dhananjaya-Dev/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Dhananjaya-Dev/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -80,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/Dhananjaya-Dev/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Dhananjaya-Dev/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Dhananjaya-Dev/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
