@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0205-isomorphic-strings) |
 | [2747-count-zero-request-servers](https://github.com/Dhananjaya-Dev/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Dhananjaya-Dev/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Tree
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0205-isomorphic-strings) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dhananjaya-Dev/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Dhananjaya-Dev/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
