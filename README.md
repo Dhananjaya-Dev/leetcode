@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0212-word-search-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/Dhananjaya-Dev/leetcode/tree/master/1254-number-of-closed-islands) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0212-word-search-ii) |
 | [1254-number-of-closed-islands](https://github.com/Dhananjaya-Dev/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Dhananjaya-Dev/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Dhananjaya-Dev/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0212-word-search-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dhananjaya-Dev/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Dhananjaya-Dev/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0212-word-search-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -318,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0212-word-search-ii) |
 ## Memoization
 |  |
 | ------- |
