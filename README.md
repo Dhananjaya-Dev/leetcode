@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0218-the-skyline-problem) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/Dhananjaya-Dev/leetcode/tree/master/1254-number-of-closed-islands) |
@@ -258,14 +259,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0218-the-skyline-problem) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Dhananjaya-Dev/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0218-the-skyline-problem) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Dhananjaya-Dev/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0218-the-skyline-problem) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Dhananjaya-Dev/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Dhananjaya-Dev/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Graph Theory
@@ -290,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0218-the-skyline-problem) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Dhananjaya-Dev/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/Dhananjaya-Dev/leetcode/tree/master/1882-process-tasks-using-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Dhananjaya-Dev/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -325,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0218-the-skyline-problem) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dhananjaya-Dev/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Dhananjaya-Dev/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -466,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0218-the-skyline-problem) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Dhananjaya-Dev/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 ## Rolling Hash
 |  |
@@ -549,4 +556,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
