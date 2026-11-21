@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/Dhananjaya-Dev/leetcode/tree/master/1254-number-of-closed-islands) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dhananjaya-Dev/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Dhananjaya-Dev/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [2747-count-zero-request-servers](https://github.com/Dhananjaya-Dev/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Dhananjaya-Dev/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Dhananjaya-Dev/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0164-maximum-gap) |
+| [0220-contains-duplicate-iii](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0220-contains-duplicate-iii) |
 ## Radix Sort
 |  |
 | ------- |
@@ -481,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Dhananjaya-Dev/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 ## Rolling Hash
 |  |
