@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0221-maximal-square](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0221-maximal-square) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/Dhananjaya-Dev/leetcode/tree/master/1254-number-of-closed-islands) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0212-word-search-ii) |
+| [0221-maximal-square](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0221-maximal-square) |
 | [1254-number-of-closed-islands](https://github.com/Dhananjaya-Dev/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Dhananjaya-Dev/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Dhananjaya-Dev/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0221-maximal-square) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Dhananjaya-Dev/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Dhananjaya-Dev/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Dhananjaya-Dev/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
