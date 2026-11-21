@@ -4,58 +4,45 @@ class Solution {
     public int[] findSubtreeSizes(int[] parent, String s) {
         int n = parent.length;
         List<List<Integer>> adj = new ArrayList<>();
-        for (int i = 0; i < n; i++) {
-            adj.add(new ArrayList<>());
-        }
-        for (int i = 1; i < n; i++) {
-            adj.get(parent[i]).add(i);
-        }
-
-        int[] newParent = Arrays.copyOf(parent, n);
+        for (int i = 0; i < n; i++) adj.add(new ArrayList<>());
+        for (int i = 1; i < n; i++) adj.get(parent[i]).add(i);
+        
+        int[] newParent = parent.clone();
         int[] lastSeen = new int[26];
         Arrays.fill(lastSeen, -1);
-
-        // First DFS: Determine the new parent for each node
-        findNewParents(0, adj, s, lastSeen, newParent);
-
-        // Build the new tree using the updated parents
+        
+        dfsReparent(0, adj, s, lastSeen, newParent);
+        
         List<List<Integer>> newAdj = new ArrayList<>();
-        for (int i = 0; i < n; i++) {
-            newAdj.add(new ArrayList<>());
-        }
-        for (int i = 1; i < n; i++) {
-            newAdj.get(newParent[i]).add(i);
-        }
-
-        // Second DFS: Calculate subtree sizes in the final tree
+        for (int i = 0; i < n; i++) newAdj.add(new ArrayList<>());
+        for (int i = 1; i < n; i++) newAdj.get(newParent[i]).add(i);
+        
         int[] ans = new int[n];
-        calculateSizes(0, newAdj, ans);
+        Arrays.fill(ans, 1);
+        dfsSize(0, newAdj, ans);
         
         return ans;
     }
-
-    private void findNewParents(int u, List<List<Integer>> adj, String s, int[] lastSeen, int[] newParent) {
-        int charIdx = s.charAt(u) - 'a';
-        int prevAncestor = lastSeen[charIdx];
-
+    
+    private void dfsReparent(int u, List<List<Integer>> adj, String s, int[] lastSeen, int[] newParent) {
+        int c = s.charAt(u) - 'a';
+        int prevAncestor = lastSeen[c];
+        
         if (prevAncestor != -1) {
             newParent[u] = prevAncestor;
         }
-
-        lastSeen[charIdx] = u;
+        
+        lastSeen[c] = u;
         for (int v : adj.get(u)) {
-            findNewParents(v, adj, s, lastSeen, newParent);
+            dfsReparent(v, adj, s, lastSeen, newParent);
         }
-        // Backtrack
-        lastSeen[charIdx] = prevAncestor;
+        lastSeen[c] = prevAncestor;
     }
-
-    private int calculateSizes(int u, List<List<Integer>> adj, int[] ans) {
-        int size = 1;
-        for (int v : adj.get(u)) {
-            size += calculateSizes(v, adj, ans);
+    
+    private int dfsSize(int u, List<List<Integer>> newAdj, int[] ans) {
+        for (int v : newAdj.get(u)) {
+            ans[u] += dfsSize(v, newAdj, ans);
         }
-        ans[u] = size;
-        return size;
+        return ans[u];
     }
 }
