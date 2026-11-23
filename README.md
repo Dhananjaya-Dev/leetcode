@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/Dhananjaya-Dev/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Dhananjaya-Dev/leetcode/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Dhananjaya-Dev/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dhananjaya-Dev/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Dhananjaya-Dev/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Dhananjaya-Dev/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0224-basic-calculator) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Dhananjaya-Dev/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Dhananjaya-Dev/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Dhananjaya-Dev/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Dhananjaya-Dev/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Dhananjaya-Dev/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -535,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Dhananjaya-Dev/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Dhananjaya-Dev/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Dhananjaya-Dev/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Enumeration
@@ -586,4 +590,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0218-the-skyline-problem) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Dhananjaya-Dev/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
