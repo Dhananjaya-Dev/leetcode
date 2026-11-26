@@ -1,15 +1,15 @@
 class Solution {
     public boolean canAliceWin(int n) {
-        int take = 10;
+        int stonesToRemove = 10;
         boolean aliceTurn = true;
         
-        while (n >= take) {
-            n -= take;
-            take--;
+        while (n >= stonesToRemove) {
+            n -= stonesToRemove;
+            stonesToRemove--;
             aliceTurn = !aliceTurn;
         }
         
-        // If it's Bob's turn when the loop ends, Bob couldn't move, so Alice wins
+        // If it's Bob's turn and he can't make a move, Alice wins
         return !aliceTurn;
     }
 }
