@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0221-maximal-square) |
+| [0228-summary-ranges](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0228-summary-ranges) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dhananjaya-Dev/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/Dhananjaya-Dev/leetcode/tree/master/1254-number-of-closed-islands) |
